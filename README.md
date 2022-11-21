@@ -9,7 +9,7 @@ Like many business problems, the data we'll explore is contained in several diff
 - SQL
 
 ## Topics
-- Data Manipulation
+- Case Studies
 
 ## Outline
 1. The oldest business in the world
